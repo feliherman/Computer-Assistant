@@ -1,0 +1,7 @@
+1.In RecognitionWithTransformers.zip este codul impreuna cu o imagine de rulare petru un fisier(am incarcat un model disponibil online, acesta este mai lent decat speech_recognition de aceea nu am continuata cu el)
+2.Am creat aplicatia de recunoastere a textului impreuna un videoclip pentru a exemplifica functionalitatile proiectului.(speech_recognition deoarece timpul de recunoastere este mult mai scurt)
+	-aceasta mai are si comanda 'sleep', aceasta neputand fi exemplificata
+	-comanda 'turn of monitor' nu ii vizibila in inregistrare 
+
+Autoevaluare : Herman Felician A
+Prezentare proiect : https://www.youtube.com/watch?v=F1IR7ZymaD0
